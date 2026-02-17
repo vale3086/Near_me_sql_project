@@ -25,7 +25,7 @@ El diseño se basa en un esquema relacional normalizado que incluye 7 tablas pri
 * **Lenguaje:** SQL (DDL).
 
 ## 📂 Estructura del Repositorio
-* `/near_me.sql`: Script principal que contiene la creación de la base de datos, tablas, restricciones de integridad (FK) e índices de optimización.
+* `/DB_Near_Me.sql`: Script principal que contiene la creación de la base de datos, tablas, restricciones de integridad (FK) e índices de optimización.
 
 ## 📝 Convenciones de Código Aplicadas
 Para asegurar la mantenibilidad y calidad del código, se aplicaron las siguientes reglas:
