@@ -26,6 +26,8 @@ El diseño se basa en un esquema relacional normalizado que incluye 7 tablas pri
 
 ## 📂 Estructura del Repositorio
 * `/DB_Near_Me.sql`: Script principal que contiene la creación de la base de datos, tablas, restricciones de integridad (FK) e índices de optimización.
+* `/Near_Me_Views-SP-Fun-Tr.sql`: Creación de 6 Vistas, 3 Funciones, 4 Stored Procedures y 2 Triggers. **Actualizado: 22/03/2026**
+* `/Near_Me_Datos.sql`: Script de inserción de usuarios, comercios, reviews. **Actualizado: 22/03/2026**
 
 ## 📝 Convenciones de Código Aplicadas
 Para asegurar la mantenibilidad y calidad del código, se aplicaron las siguientes reglas:
@@ -33,6 +35,13 @@ Para asegurar la mantenibilidad y calidad del código, se aplicaron las siguient
 * **Nomenclatura de objetos:** Todo en minúsculas y `snake_case`.
 * **Comentarios:** Documentación interna del script escrita en MAYÚSCULAS para mayor visibilidad.
 * **Identación:** Código estructurado para facilitar la lectura de constraints y relaciones.
+
+## ⚙️ Instrucciones de Ejecución 
+**Actualizado: 22/03/2026**
+Para asegurar el correcto funcionamiento, ejecutar los scripts en este orden:
+1. `near_me.sql`
+2. `Near_Me_Views-SP-Fun-Tr.sql`
+3. `Near_Me_Datos.sql`
 
 ---
 **Desarrollado por:** Valeria Castillo - Ingeniería en Sistemas
