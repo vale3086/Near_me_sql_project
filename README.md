@@ -113,7 +113,7 @@ Se utilizó **Tableau Public** para el análisis visual de los datos. Se constru
 /
 ├── Near_Me_Estructura.sql          → Estructura completa: 16 tablas, 8 vistas,
 │                                    5 funciones, 6 SPs, 4 triggers
-├── Near_Me_Completo_Datos.sql    → Datos completos: 60 usuarios, 40 comercios,
+├── Near_Me_Datos.sql    → Datos completos: 60 usuarios, 40 comercios,
 │                                    95 reseñas y demás registros
 └── README.md                     → Este archivo
 ```
