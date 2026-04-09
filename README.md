@@ -115,7 +115,6 @@ Se utilizó **Tableau Public** para el análisis visual de los datos. Se constru
 │                                    5 funciones, 6 SPs, 4 triggers
 ├── Near_Me_Completo_Datos.sql    → Datos completos: 60 usuarios, 40 comercios,
 │                                    95 reseñas y demás registros
-├── Near_Me_Informes.sql          → 8 consultas analíticas + flat table para Tableau
 └── README.md                     → Este archivo
 ```
 
@@ -128,7 +127,6 @@ Ejecutar los scripts en este orden:
 ```
 1. Near_Me_Completo.sql         → Crea la estructura de la base de datos
 2. Near_Me_Completo_Datos.sql   → Inserta todos los datos
-3. Near_Me_Informes.sql         → Ejecuta los informes analíticos (opcional)
 ```
 
 > **Requisito:** MySQL Server 8.0 o superior.
@@ -144,6 +142,11 @@ Ejecutar los scripts en este orden:
 | Tableau Public | Visualización y análisis de datos |
 | Canva | Documentación y presentación del proyecto |
 | GitHub | Control de versiones y repositorio del proyecto |
+
+---
+
+## 📝 Links
+Dashboard: https://public.tableau.com/app/profile/valeria.castillo4390/viz/NearMe/Dashboard1?publish=yes 
 
 ---
 
